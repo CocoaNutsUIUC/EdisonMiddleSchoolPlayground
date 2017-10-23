@@ -20,6 +20,7 @@ bit.ly/EdisonMiddleSchoolPlaygroundSphero
 
 7. All of this stuff you learned can do a lot more than control robotic Spheros. Using the same techniques we showed you today…
   - robotic etch a sketch
+    - [Drawing Lena](https://youtu.be/g2L0wQGVS88)
   - drone app @ Agrible
   - EVERYDAY THINGS THAT USE CODE: projector and thermostats and robotic shirtmakers!
   - What do you want to be when you grow up?
